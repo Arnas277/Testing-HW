@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require-dev": {
+    "symfony/phpunit-bridge": "^5.0",
+    "phpunit/phpunit": "^8"
+  },
+  "require": {
+    "ext-intl": "*"
+  }
+}
